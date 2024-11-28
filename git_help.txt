@@ -35,3 +35,4 @@ git checkout -b <name> - cоздает новую ветку с именем <na
 git branch --delete <name> - удаляет ветку локально
 git push origin --delete <name> - удаляет ветку в репозтитории
 git merge <name> - cливает изменения из ветки <name> в текущую ветку.
+
